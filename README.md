@@ -49,6 +49,10 @@ Flat 1 ──< Tenant 1 ──< BillPayment >── 1 BillType
 
 ![Tenant master-details](docs/images/master-details.png)
 
+### Report Viewer (Crystal Reports)
+
+![Report viewer](docs/images/report-viewer.png)
+
 ### All Tenants Report (grouped by status)
 
 | Page 1 | Page 2 |
