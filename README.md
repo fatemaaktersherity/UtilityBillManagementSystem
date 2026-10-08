@@ -37,6 +37,18 @@ Flat 1 ──< Tenant 1 ──< BillPayment >── 1 BillType
 
 ## Screenshots
 
+### Main Window
+
+![Main window](docs/images/main-window.png)
+
+### Flat Entry
+
+![Flat form](docs/images/flat-form.png)
+
+### Tenant Master-Details
+
+![Tenant master-details](docs/images/master-details.png)
+
 ### All Tenants Report (grouped by status)
 
 | Page 1 | Page 2 |
